@@ -1,3 +1,18 @@
+Metadata-Version: 2.1
+Name: flask-simpleserialize
+Version: 0.0.3
+Summary: 一个针对于flask框架的序列化工具
+Home-page: https://github.com/pypa/sampleproject
+Author: 张斌
+Author-email: 786017877@163.com
+License: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
 ## flask_simpleserialize
 
 * 一个适用于flask框架(轻型的、简单的)序列化工具
@@ -170,3 +185,5 @@ class AppletUser(Base):
 
 
 ^_^  以后会继续更新滴
+
+

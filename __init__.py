@@ -1,5 +1,2 @@
-from .serializes import ModelSerialize
-
-__all__ = ["ModelSerialize"]
-
-name = "flask_serialize"
+name = "flask-simpleserialize"
+versions = "0.0.3"

@@ -1,11 +1,11 @@
 import setuptools
-with open("README.md", "r") as fh:
+with open("README.md", "r",encoding='utf-8') as fh:
   long_description = fh.read()
 
 
 setuptools.setup(
-  name="flask-serialize",
-  version="0.0.1",
+  name="flask-simpleserialize",
+  version="0.0.3",
   author="张斌",
   author_email="786017877@163.com",
   description="一个针对于flask框架的序列化工具",

@@ -1,0 +1,9 @@
+LICENSE
+README.md
+setup.py
+flask_simpleserialize.egg-info/PKG-INFO
+flask_simpleserialize.egg-info/SOURCES.txt
+flask_simpleserialize.egg-info/dependency_links.txt
+flask_simpleserialize.egg-info/top_level.txt
+serialize/__init__.py
+serialize/serializes.py
